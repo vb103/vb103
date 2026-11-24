@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <p>
-  <sub>来自中国的槟榔</sub>
+  <sub><b>🌱来自中国的槟榔</b></sub>
 </p>
 
 </div>
@@ -36,12 +36,4 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust,python,c,vue,go,java,linux,nodejs,php,git&theme=light" alt="Tech Stack" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>Designed with clarity · Powered by GitHub</sub>
 </div>
